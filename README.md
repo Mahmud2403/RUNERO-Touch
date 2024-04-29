@@ -26,7 +26,7 @@ This simple app is created for educational purposes.
 
 This simple app is created for educational purposes.
 
-<img src="https://github.com/Mahmud2403/RUNERO-Touch/assets/111182031/182e9af3-326a-4218-b55e-6cecb2649aae" width="400" height="200">
+<img src="https://github.com/Mahmud2403/RUNERO-Touch/assets/111182031/a2b1c815-735a-45af-bd0c-747bc619b8f5" width="400" height="200">
 <img src="https://github.com/Mahmud2403/RUNERO-Touch/assets/111182031/228bf956-43ae-4df6-9446-9301cc95d58c" width="400" height="200">
 <img src="https://github.com/Mahmud2403/RUNERO-Touch/assets/111182031/61070658-831d-45f7-b41b-1dcdfd593d0e" width="400" height="200">
 <img src="https://github.com/Mahmud2403/RUNERO-Touch/assets/111182031/917a2304-6398-44a9-afba-b7561cdc1e0f" width="400" height="200">
